@@ -1,0 +1,8 @@
+# Wallpaper
+nitrogen --random --set-zoom-fill &
+
+# compositor
+picom -f &
+
+#screen resolution
+# xrandr --output DisplayPort-0 --primary --mode 2560x1440 --pos 2579x0 --rotate normal --output DisplayPort-1 --mode 2560x1440 --pos 5139x0 --rotate normal --output HDMI-A-0 --off --output HDMI-A-1 --mode 2560x1440 --pos 0x0 --rotate normal --output DVI-D-0 --off
