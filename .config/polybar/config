@@ -1,57 +1,15 @@
-;==========================================================
-;
-;
-;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
-;   ██╔══██╗██╔═══██╗██║  ╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
-;   ██████╔╝██║   ██║██║   ╚████╔╝ ██████╔╝███████║██████╔╝
-;   ██╔═══╝ ██║   ██║██║    ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
-;   ██║     ╚██████╔╝███████╗██║   ██████╔╝██║  ██║██║  ██║
-;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-;
-;
-;   To learn more about how to configure Polybar
-;   go to https://github.com/polybar/polybar
-;
-;   The README contains a lot of information
-;
-;==========================================================
+# ---------------------------------------------------------------------------------------------------------------------
+# POLYBAR Config
+#
+# This is where all the modules and resources are pooled together, and bars are defined.
+# ---------------------------------------------------------------------------------------------------------------------
 
+# Import Common Themes and Configuration ------------------------------------------------------------------------------
 [colors]
-background = ${xrdb:color0:#222}
-;background = #222
-background-alt = #444
-foreground = ${xrdb:color7:#EEE}
-;foreground = #dfdfdf
-foreground-alt = #555
-primary = ${xrdb:color1:#777}
-secondary = #e60053
-alert = #bd2c40
-underline = ${xrdb:color8}
-cpu = ${xrdb:color11}
-memory = ${xrdb:color14}
-redshift = ${xrdb:color13}
-bluetooth = ${xrdb:color15}
-alter1 = ${xrdb:color4}
-alter2 = ${xrdb:color3}
+include-file = $XDG_CONFIG_HOME/polybar/resources/colors.ini
 
 [fonts]
-font-0 = Jet Brains Mono:style=Regular:size=10;2
-
-[bar/example]
-monitor = ${env:MONITOR:}
-width = 100%
-height = 27
-;offset-x = 1%
-;offset-y = 1%
-radius = 6.0
-fixed-center = false
-tray-position = right
-
-background = ${colors.background}
-foreground = ${colors.foreground}
-
-modules-left = bspwm xwindow
-modules-right = pulseaudio date 
+include-file = $XDG_CONFIG_HOME/polybar/resources/fonts.ini
 
 [settings]
 screenchange-reload = true
@@ -59,64 +17,63 @@ screenchange-reload = true
 [global/wm]
 margin-bottom = 0
 
+# Import Common Modules to be used ------------------------------------------------------------------------------------
 [module/bspwm]
-type = internal/bspwm
+include-file = $XDG_CONFIG_HOME/polybar/modules/bspwm.ini
 
-label-occupied = %name%
-label-occupied-padding = 1
+[module/cpu]
+include-file = $XDG_CONFIG_HOME/polybar/modules/cpu.ini
+format-underline = ${colors.blue}
 
-label-urgent = %name%!
-label-urgent-background = ${colors.alert}
-label-urgent-padding = 1
-
-
-label-empty = %name%
-label-empty-foreground = ${colors.foreground-alt}
-label-empty-padding = 2
-
-; Separator in between workspaces
-; label-separator = |
-
-; Only show workspaces on the same output as the bar
-;pin-workspaces = true
- 
 [module/date]
-type = internal/date
-interval = 1
-date = %d-%m-%Y
-date-alt = %Y-%m-%d
-time = %H:%M
-time-alt = %H:%M:%S
-label = "%date% %time%"
+include-file = $XDG_CONFIG_HOME/polybar/modules/date.ini
+format-underline = ${colors.red}
+
+[module/memory]
+include-file = $XDG_CONFIG_HOME/polybar/modules/memory.ini
+format-underline = ${colors.magenta}
 
 [module/pulseaudio]
-type = internal/pulseaudio
+include-file = $XDG_CONFIG_HOME/polybar/modules/pulseaudio.ini
+format-volume-underline = ${colors.yellow}
+format-muted-underline = ${colors.yellow}
 
-format-volume = <label-volume> <bar-volume>
-format-volume-padding = 2
-label-volume = VOL %percentage%%
-label-volume-foreground = ${root.foreground}
-
-label-muted =  muted
-label-muted-foreground = #666
-
-bar-volume-width = 10
-bar-volume-foreground-0 = #55aa55
-bar-volume-foreground-1 = #55aa55
-bar-volume-foreground-2 = #55aa55
-bar-volume-foreground-3 = #55aa55
-bar-volume-foreground-4 = #55aa55
-bar-volume-foreground-5 = #f5a70a
-bar-volume-foreground-6 = #ff5555
-bar-volume-gradient = false
-bar-volume-indicator = |
-bar-volume-indicator-font = 7
-bar-volume-fill = ─
-bar-volume-fill-font = 7
-bar-volume-empty = ─
-bar-volume-empty-font = 7
-bar-volume-empty-foreground = ${colors.foreground-alt}
+[module/temperature]
+include-file = $XDG_CONFIG_HOME/polybar/modules/temperature.ini
+format-underline = ${colors.green}
 
 [module/xwindow]
-type = internal/xwindow
-label = "  %title:0:50:...%"
+include-file = $XDG_CONFIG_HOME/polybar/modules/xwindow.ini
+
+[module/notifications]
+include-file = $XDG_CONFIG_HOME/polybar/modules/notifications.ini
+
+# Define Bars ---------------------------------------------------------------------------------------------------------
+[bar/common]
+inherit = fonts
+width = 100%
+height = 24
+dpi-x = 96
+dpi-y = 96
+background = ${colors.background-dark}
+foreground = ${colors.foreground}
+padding-left = 0
+padding-right = 1
+module-margin-right = 2
+tray-position = none
+line-size = 2
+wm-restack = bspwm
+
+[bar/simple]
+inherit = bar/common
+monitor = ${env:MONITOR:}
+modules-left = bspwm
+modules-right = pulseaudio date
+
+[bar/main]
+inherit = bar/common
+monitor = ${env:MONITOR:}
+enable-ipc = true
+modules-left = bspwm xwindow
+modules-right = memory cpu temperature pulseaudio date notifications
+tray-position = right

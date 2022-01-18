@@ -1,0 +1,4 @@
+{
+ "default.configured.audio.source": { "name": "alsa_input.usb-Samson_Technologies_Samson_C03U-00.analog-stereo" },
+ "default.configured.audio.sink": { "name": "alsa_output.usb-FiiO_DigiHug_USB_Audio-01.analog-stereo" }
+}
