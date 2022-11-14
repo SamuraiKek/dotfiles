@@ -1,0 +1,74 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/usr/share/gtk-2.0">
+          <value>
+            <RecentProjectMetaInfo frameTitle="gtk-2.0" projectWorkspaceId="26IxkTJKbZl3ocMh2GUqi2ciw60">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.6777.52" />
+              <option name="buildTimestamp" value="1643831431690" />
+              <frame x="11" y="34" width="2538" height="1395" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1647125044540" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.config">
+          <value>
+            <RecentProjectMetaInfo frameTitle=".zshrc – config" projectWorkspaceId="260eOyrevs5dcHRUKlF9m0zIScR">
+              <option name="activationTimestamp" value="1651433798839" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.6777.52" />
+              <option name="buildTimestamp" value="1643831431690" />
+              <frame x="5131" y="38" width="2538" height="1391" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1647125058545" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Dimens">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Dimens – Dimens" projectWorkspaceId="2AX3EfMiaX1AyeLyMn8VxXH0EeK">
+              <option name="activationTimestamp" value="1661450306068" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5080.210" />
+              <option name="buildTimestamp" value="1649784364979" />
+              <frame x="6409" y="38" width="1260" height="1391" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1655141992748" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/git-clones/qmk_firmware">
+          <value>
+            <RecentProjectMetaInfo frameTitle="qmk_firmware – ~/.zprofile" projectWorkspaceId="28Zp86D62pfaviyDARaoJrxCe1k">
+              <option name="activationTimestamp" value="1668443597675" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5080.210" />
+              <option name="buildTimestamp" value="1649784372237" />
+              <frame x="4275" y="47" width="834" height="1382" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1661450306481" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/git-clones/dotfiles">
+          <value>
+            <RecentProjectMetaInfo frameTitle="dotfiles – README.md" opened="true" projectWorkspaceId="2HXu9ehcmK75zZVQhpnxM7Xanxt">
+              <option name="activationTimestamp" value="1668444808128" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-222.4345.14" />
+              <option name="buildTimestamp" value="1665569878044" />
+              <frame x="4275" y="47" width="834" height="1382" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1668443599782" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/git-clones/dotfiles" />
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

@@ -1,0 +1,229 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Redo">
+      <i c="10" l="1647448419105" />
+    </e>
+    <e n="$SelectAll">
+      <i c="5" l="1647453204711" />
+    </e>
+    <e n="$Undo">
+      <i c="187" l="1647455001982" />
+    </e>
+    <e n="Back">
+      <i c="2" l="1646954220193" />
+    </e>
+    <e n="CloseProject">
+      <i c="2" l="1647125050136" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="2" l="1647125600891" />
+    </e>
+    <e n="CollapseSelection">
+      <i c="1" l="1646564244341" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="952" l="1647448421825" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1647107180444" />
+    </e>
+    <e n="EditorCopy">
+      <i c="19" l="1647455003142" />
+    </e>
+    <e n="EditorCut">
+      <i c="8" l="1647455000976" />
+    </e>
+    <e n="EditorDelete">
+      <i c="50" l="1647106666829" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1646564247285" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1646953664116" />
+    </e>
+    <e n="EditorDown">
+      <i c="284" l="1647209680024" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1646865302409" />
+    </e>
+    <e n="EditorEnter">
+      <i c="117" l="1647209036976" />
+    </e>
+    <e n="EditorEscape">
+      <i c="5" l="1647125501618" />
+    </e>
+    <e n="EditorLeft">
+      <i c="242" l="1647209672655" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="2" l="1647125328305" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="40" l="1647209522862" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="10" l="1647209670919" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="26" l="1647105286076" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="33" l="1647125825420" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="36" l="1647209682431" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="7" l="1647209667183" />
+    </e>
+    <e n="EditorPageUpWithSelection">
+      <i c="2" l="1646954653918" />
+    </e>
+    <e n="EditorPaste">
+      <i c="59" l="1647208399293" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="16" l="1647209682743" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="18" l="1647105817083" />
+    </e>
+    <e n="EditorRight">
+      <i c="155" l="1647209669239" />
+    </e>
+    <e n="EditorTab">
+      <i c="25" l="1647126308450" />
+    </e>
+    <e n="EditorTextStart">
+      <i c="3" l="1647105264652" />
+    </e>
+    <e n="EditorUp">
+      <i c="150" l="1647209677336" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="18" l="1647105809251" />
+    </e>
+    <e n="Find">
+      <i c="4" l="1647209266145" />
+    </e>
+    <e n="GotoClass">
+      <i c="1" l="1646855086951" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1647106993283" />
+    </e>
+    <e n="GotoFile">
+      <i c="3" l="1646855101613" />
+    </e>
+    <e n="GotoImplementation">
+      <i c="1" l="1646564271005" />
+    </e>
+    <e n="GotoTypeDeclaration">
+      <i c="1" l="1646564273981" />
+    </e>
+    <e n="MTDarkerTheme">
+      <i c="1" d="1" l="1647110685040" k="1647110685040" />
+    </e>
+    <e n="MTDarkerThemeContrast">
+      <i c="1" d="1" l="1647110683696" k="1647110683696" />
+    </e>
+    <e n="MTDeepOceanTheme">
+      <i c="2" d="2" l="1647110681560" k="1647110681560" />
+    </e>
+    <e n="MTDeepOceanThemeContrast">
+      <i c="3" d="3" l="1647110679944" k="1647110679944" />
+    </e>
+    <e n="MTNightOwlThemeContrast">
+      <i c="2" d="2" l="1647110702320" k="1647110702320" />
+    </e>
+    <e n="MTOceanicTheme">
+      <i c="4" d="4" l="1647110718832" k="1647110718832" />
+    </e>
+    <e n="MTOceanicThemeContrast">
+      <i c="3" d="3" l="1647110717592" k="1647110717592" />
+    </e>
+    <e n="MTSolarizedDarkTheme">
+      <i c="1" d="1" l="1647110697800" k="1647110697800" />
+    </e>
+    <e n="MTSolarizedDarkThemeContrast">
+      <i c="1" d="1" l="1647110689792" k="1647110689792" />
+    </e>
+    <e n="MTSolarizedLightTheme">
+      <i c="1" d="1" l="1647110688904" k="1647110688904" />
+    </e>
+    <e n="MTSolarizedLightThemeContrast">
+      <i c="1" d="1" l="1647110686944" k="1647110686944" />
+    </e>
+    <e n="MoveLineUp">
+      <i c="1" l="1646952716696" />
+    </e>
+    <e n="NewDir">
+      <i c="3" l="1646854675207" />
+    </e>
+    <e n="NewFile">
+      <i c="8" l="1647107118400" />
+    </e>
+    <e n="OpenFile">
+      <i c="4" l="1647107934357" />
+    </e>
+    <e n="ReformatCode">
+      <i c="2" l="1646953666162" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1646954463492" />
+    </e>
+    <e n="RerunTests">
+      <i c="9" l="1646863396249" />
+    </e>
+    <e n="SaveAll">
+      <i c="233" l="1647209685120" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="3" l="1647110640278" />
+    </e>
+    <e n="SelectInProjectView">
+      <i c="7" l="1647106633574" />
+    </e>
+    <e n="Switcher">
+      <i c="16" l="1646863393072" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1646865447967" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1647125052675" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="2" d="2" l="1647110590045" k="1647110590045" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$11">
+      <i c="2" l="1647209271852" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="28" l="1647209269668" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="2" l="1647125044424" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="28" l="1647110726520" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="6" l="1646779899322" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="30" l="1647110716344" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="56" l="1647110718208" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
+      <i c="2" l="1646946383334" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
+      <i c="2" l="1646946384197" />
+    </e>
+  </component>
+</application>

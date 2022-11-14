@@ -1,0 +1,361 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="qmk_firmware" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:core" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:internal" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.config/sway/config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5736">
+              <caret line="239" selection-start-line="239" selection-end-line="239" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/.zprofile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="8" lastUsed="1668443582315" />
+    </fileType>
+    <fileType name="C++">
+      <summary usageCount="73" lastUsed="1667638315802" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="5" lastUsed="1661451056078" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="12" lastUsed="1667494102293" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="10" lastUsed="1667494102715" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="23" lastUsed="1668443582902" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reset</find>
+      <find>config</find>
+      <find>MOD_RALT</find>
+      <find>LT_SPC</find>
+      <find>MD_ENT</find>
+      <find>MD_SPC</find>
+    </findStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/v1/config.h" />
+      <option value="$USER_HOME$/virsh_config" />
+      <option value="$USER_HOME$/nano.366634.save" />
+      <option value="$USER_HOME$/.config/sway/config" />
+      <option value="$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/keymaps/samurai/keymap.c" />
+      <option value="$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/v2/config.h" />
+      <option value="$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/config.h" />
+      <option value="$USER_HOME$/.zprofile" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Shell Script">
+      <summary usageCount="6" lastUsage="1667494102716" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="6" lastUsage="1667494102293" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="13" lastUsage="1668443582903" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qmk_firmware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qmk_firmware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qmk_firmware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qmk_firmware" type="462c0819:PsiDirectoryNode" />
+              <item name="keyboards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qmk_firmware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qmk_firmware" type="462c0819:PsiDirectoryNode" />
+              <item name="keyboards" type="462c0819:PsiDirectoryNode" />
+              <item name="blank_tehnologii" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qmk_firmware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qmk_firmware" type="462c0819:PsiDirectoryNode" />
+              <item name="keyboards" type="462c0819:PsiDirectoryNode" />
+              <item name="blank_tehnologii" type="462c0819:PsiDirectoryNode" />
+              <item name="manibus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qmk_firmware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qmk_firmware" type="462c0819:PsiDirectoryNode" />
+              <item name="keyboards" type="462c0819:PsiDirectoryNode" />
+              <item name="blank_tehnologii" type="462c0819:PsiDirectoryNode" />
+              <item name="manibus" type="462c0819:PsiDirectoryNode" />
+              <item name="keymaps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qmk_firmware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qmk_firmware" type="462c0819:PsiDirectoryNode" />
+              <item name="keyboards" type="462c0819:PsiDirectoryNode" />
+              <item name="blank_tehnologii" type="462c0819:PsiDirectoryNode" />
+              <item name="manibus" type="462c0819:PsiDirectoryNode" />
+              <item name="keymaps" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qmk_firmware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qmk_firmware" type="462c0819:PsiDirectoryNode" />
+              <item name="keyboards" type="462c0819:PsiDirectoryNode" />
+              <item name="blank_tehnologii" type="462c0819:PsiDirectoryNode" />
+              <item name="manibus" type="462c0819:PsiDirectoryNode" />
+              <item name="keymaps" type="462c0819:PsiDirectoryNode" />
+              <item name="samurai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qmk_firmware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qmk_firmware" type="462c0819:PsiDirectoryNode" />
+              <item name="keyboards" type="462c0819:PsiDirectoryNode" />
+              <item name="blank_tehnologii" type="462c0819:PsiDirectoryNode" />
+              <item name="manibus" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qmk_firmware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qmk_firmware" type="462c0819:PsiDirectoryNode" />
+              <item name="keyboards" type="462c0819:PsiDirectoryNode" />
+              <item name="blank_tehnologii" type="462c0819:PsiDirectoryNode" />
+              <item name="manibus" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Pull Requests" weight="0.32998425" />
+      <window_info id="Commit" weight="0.33037823" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.34832132" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="right" id="Notifications" side_tool="true" weight="0.32998425" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Pull Requests</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3449" y="474" key="#Notifications" timestamp="1667495149165">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3449" y="474" key="#Notifications/0.0.2560.1440/2560.0.2560.1440/5120.0.2560.1440@2560.0.2560.1440" timestamp="1667495149165" />
+    <state x="3628" y="511" key="FileChooserDialogImpl" timestamp="1668443597553">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="6188" y="511" key="FileChooserDialogImpl/0.0.2560.1440/2560.0.2560.1440/5120.0.2560.1440@5120.0.2560.1440" timestamp="1667638343830" />
+    <state x="6188" y="511" key="FileChooserDialogImpl/5120.0.2560.1440/2560.0.2560.1440/0.0.2560.1440@5120.0.2560.1440" timestamp="1667656993583" />
+    <state x="3628" y="511" key="FileChooserDialogImpl/5120.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1668443597553" />
+    <state x="3404" y="476" width="871" height="514" key="IDE.errors.dialog" timestamp="1667495405390">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3404" y="476" width="871" height="514" key="IDE.errors.dialog/0.0.2560.1440/2560.0.2560.1440/5120.0.2560.1440@2560.0.2560.1440" timestamp="1667495405390" />
+    <state x="844" y="476" width="871" height="514" key="IDE.errors.dialog/5120.0.2560.1440/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1664031052951" />
+    <state x="3593" y="432" key="RollbackChangesDialog" timestamp="1667495516010">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3593" y="432" key="RollbackChangesDialog/0.0.2560.1440/2560.0.2560.1440/5120.0.2560.1440@2560.0.2560.1440" timestamp="1667495516010" />
+    <state x="5931" y="388" key="SettingsEditor" timestamp="1667932030160">
+      <screen x="5120" y="0" width="2560" height="1440" />
+    </state>
+    <state x="5931" y="388" key="SettingsEditor/0.0.2560.1440/2560.0.2560.1440/5120.0.2560.1440@5120.0.2560.1440" timestamp="1667932030160" />
+    <state x="6702" y="354" width="713" height="687" key="search.everywhere.popup" timestamp="1667931990660">
+      <screen x="5120" y="0" width="2560" height="1440" />
+    </state>
+    <state x="6702" y="354" width="713" height="687" key="search.everywhere.popup/0.0.2560.1440/2560.0.2560.1440/5120.0.2560.1440@5120.0.2560.1440" timestamp="1667931990660" />
+    <state x="6702" y="354" key="search.everywhere.popup/5120.0.2560.1440/0.0.2560.1440/2560.0.2560.1440@5120.0.2560.1440" timestamp="1661451065417" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/keymaps/config.h" />
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/keymaps/samurai/readme.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/nano.366634.save">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/virsh_config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="242" column="9" selection-start-line="242" selection-start-column="9" selection-end-line="242" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///etc/mkinitcpio.d/linux.preset">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///etc/modprobe.d/vfio.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/personal/linux-configs/usr-local-bin/vfio-pci-override.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/personal/linux-configs/boot-loader-entries/arch.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/bin/vfio-pci-override.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/manibus.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/manibus.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/rules.mk">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/keymaps/samurai/config.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/keymaps/samurai/keymap.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="58" column="33" lean-forward="true" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/keymaps/default/keymap.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-728" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/config.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/v1/config.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboards/blank_tehnologii/manibus/v2/config.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.config/sway/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5736">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.zprofile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

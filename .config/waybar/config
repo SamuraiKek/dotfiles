@@ -1,0 +1,115 @@
+// =============================================================================
+//
+// Waybar configuration (https://hg.sr.ht/~begs/dotfiles)
+//
+// Configuration reference: https://github.com/Alexays/Waybar/wiki/Configuration
+//
+// =============================================================================
+
+{
+	// -------------------------------------------------------------------------
+	// Global configuration
+	// -------------------------------------------------------------------------
+
+	"layer": "top",
+	"position": "top",
+	//"height": 18,
+
+	"modules-left": [
+		"sway/mode",
+		"sway/workspaces"
+	],
+
+	"modules-center": [
+		"sway/window"
+	],
+
+	"modules-right": [
+		"pulseaudio",
+		"memory",
+		"cpu",
+		"temperature",
+		"tray",
+		"clock"
+	],
+
+	// -------------------------------------------------------------------------
+	// Modules
+	// -------------------------------------------------------------------------
+
+    "pulseaudio": {
+		"scroll-step": 1,
+		"format": "{icon} {volume}%",
+		"format-bluetooth": "{icon} {volume}%",
+		"format-muted": "",
+		"format-icons": {
+			"headphones": "",
+			"handsfree": "",
+			"headset": "",
+			"phone": "",
+			"portable": "",
+			"car": "",
+			"default": ["", ""]
+		},
+		"on-click": "pavucontrol"
+	},
+
+	"memory": {
+    	"interval": 5,
+    	"format": "💾 {}%", // Icon: memory
+    	"states": {
+    		"warning": 70,
+    		"critical": 90
+    	}
+    },
+
+	"cpu": {
+		"interval": 5,
+		"tooltip": false,
+		"format": " {usage}%", // Icon: microchip
+		"states": {
+		  "warning": 70,
+		  "critical": 90
+		}
+	},
+
+	"tray": {
+		"icon-size": 21
+		//"spacing": 10
+	},
+
+	"clock": {
+		"interval": 1,
+		"tooltip-format": "{:%Y-%m-%d | %H:%M:%S}",
+		"format": "{:%Y-%m-%d | %H:%M:%S}"
+	},
+
+	"sway/mode": {
+		"format": "<span style=\"italic\"> {}</span>", // Icon: expand-arrows-alt
+		"tooltip": false
+	},
+
+	"sway/window": {
+		"format": "{}",
+		"max-length": 30,
+		"tooltip": false
+	},
+
+	"sway/workspaces": {
+		"all-outputs": false,
+		"disable-scroll": false,
+		"format": "{name}",
+		"persistent_workspaces": {
+		    "1": ["DP-2"],
+		    "2": ["DP-2"],
+		    "3": ["DP-2"],
+		    "0": ["DP-2"],
+		    "4": ["DP-1"],
+		    "5": ["DP-1"],
+		    "6": ["DP-1"],
+		    "7": ["DP-3"],
+		    "8": ["DP-3"],
+		    "9": ["DP-3"],
+		}
+	}
+}

@@ -1,0 +1,15 @@
+<application>
+  <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/Dropbox/personal/linux-configs/boot-loader-entries/arch.conf" />
+        <option value="file://$USER_HOME$/Dropbox/personal/linux-configs/etc/mkinitcpio.conf" />
+        <option value="file://$USER_HOME$/Dropbox/personal/linux-configs/etc-modprobe.d/vfio.conf" />
+      </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="1289" y="38" width="1260" height="1391" />
+    </option>
+    <option name="preferredMode" value="LightEdit" />
+  </component>
+</application>

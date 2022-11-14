@@ -1,0 +1,32 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/usr/share/gtk-2.0">
+          <value>
+            <RecentProjectMetaInfo frameTitle="gtk-2.0" projectWorkspaceId="26IxkTJKbZl3ocMh2GUqi2ciw60">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.6777.52" />
+              <option name="buildTimestamp" value="1643831431690" />
+              <frame x="11" y="34" width="2538" height="1395" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1647125044540" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.config">
+          <value>
+            <RecentProjectMetaInfo frameTitle=".zshrc – config" opened="true" projectWorkspaceId="260eOyrevs5dcHRUKlF9m0zIScR">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.6777.52" />
+              <option name="buildTimestamp" value="1643831431690" />
+              <frame x="1289" y="38" width="1260" height="1391" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1647125058545" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

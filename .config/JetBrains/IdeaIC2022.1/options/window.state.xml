@@ -1,0 +1,60 @@
+<application>
+  <component name="ToolWindowLayout">{
+  &quot;v1&quot;: [
+    {
+      &quot;id&quot;: &quot;Project&quot;,
+      &quot;order&quot;: 0,
+      &quot;contentUiType&quot;: &quot;COMBO&quot;,
+      &quot;weight&quot;: 0.25
+    },
+    {
+      &quot;id&quot;: &quot;Version Control&quot;,
+      &quot;order&quot;: 0,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Find&quot;,
+      &quot;order&quot;: 1,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Run&quot;,
+      &quot;order&quot;: 2,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Debug&quot;,
+      &quot;order&quot;: 3,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.4
+    },
+    {
+      &quot;id&quot;: &quot;Inspection&quot;,
+      &quot;order&quot;: 4,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.4
+    }
+  ]
+}</component>
+  <component name="WindowManager">
+    <frame x="5131" y="38" width="2538" height="1391" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="6188" y="506" key="FileChooserDialogImpl" timestamp="1655141969018">
+      <screen x="5120" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1067" y="503" key="FileChooserDialogImpl/0.0.2560.1440/2560.0.2560.1440/5120.0.2560.1440" timestamp="1647125058477" />
+    <state x="6188" y="533" key="FileChooserDialogImpl/0.0.2560.1440/2560.0.2560.1440/5120.0.2560.1440/7680.0.2560.1440" timestamp="1646563168901" />
+    <state x="6188" y="506" key="FileChooserDialogImpl/2560.0.2560.1440/0.0.2560.1440/5120.0.2560.1440" timestamp="1655141969018" />
+    <state x="6400" y="733" width="835" height="1391" key="WELCOME_SCREEN" timestamp="1655141992745">
+      <screen x="5120" y="0" width="2560" height="1440" />
+    </state>
+    <state x="641" y="731" width="1261" height="1395" key="WELCOME_SCREEN/0.0.2560.1440/2560.0.2560.1440/5120.0.2560.1440" timestamp="1647125058523" />
+    <state x="7253" y="760" width="848" height="1353" key="WELCOME_SCREEN/0.0.2560.1440/2560.0.2560.1440/5120.0.2560.1440/7680.0.2560.1440" timestamp="1646563187267" />
+    <state x="6400" y="733" width="835" height="1391" key="WELCOME_SCREEN/2560.0.2560.1440/0.0.2560.1440/5120.0.2560.1440" timestamp="1655141992745" />
+    <state x="6000" y="433" key="new project wizard" timestamp="1655141992529">
+      <screen x="5120" y="0" width="2560" height="1440" />
+    </state>
+    <state x="6000" y="433" key="new project wizard/2560.0.2560.1440/0.0.2560.1440/5120.0.2560.1440" timestamp="1655141992529" />
+  </component>
+</application>

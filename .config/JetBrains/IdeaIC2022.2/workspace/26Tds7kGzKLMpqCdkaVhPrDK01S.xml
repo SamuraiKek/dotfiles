@@ -1,0 +1,56 @@
+<project version="4">
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="2" lastUsed="1664031171954" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="21" lastUsed="1664031171896" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/Dropbox/personal/linux-configs/etc-modprobe.d/vfio.conf" />
+      <option value="$USER_HOME$/Dropbox/personal/linux-configs/etc/mkinitcpio.conf" />
+      <option value="$USER_HOME$/.mozilla/firefox/rce73fu2.default-release/chrome/userChrome.css" />
+    </changedPaths>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="textmate">
+      <summary usageCount="6" lastUsage="1664031171896" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Dropbox/personal/linux-configs/boot-loader-entries/arch.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/personal/linux-configs/etc/mkinitcpio.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/personal/linux-configs/etc-modprobe.d/vfio.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.mozilla/firefox/rce73fu2.default-release/chrome/userChrome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53" selection-start-column="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

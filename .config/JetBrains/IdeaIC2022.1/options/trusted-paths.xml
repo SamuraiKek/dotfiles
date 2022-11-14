@@ -1,0 +1,29 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="/etc/mkinitcpio.d" value="true" />
+        <entry key="/etc/modprobe.d" value="true" />
+        <entry key="$USER_HOME$" value="true" />
+        <entry key="$USER_HOME$/.config" value="true" />
+        <entry key="$USER_HOME$/Dropbox/personal/linux-configs/boot-loader-entries" value="true" />
+        <entry key="$USER_HOME$/Dropbox/personal/linux-configs/etc" value="true" />
+        <entry key="$USER_HOME$/Dropbox/personal/linux-configs/etc-modprobe.d" value="true" />
+        <entry key="$USER_HOME$/Dropbox/personal/linux-configs/usr-local-bin" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/Dimens" value="true" />
+        <entry key="$USER_HOME$/git-clones/qmk_firmware" value="true" />
+        <entry key="/tmp/config" value="true" />
+        <entry key="/usr/local/bin" value="true" />
+        <entry key="/usr/share/gtk-2.0" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$" />
+        <option value="/usr/share" />
+      </list>
+    </option>
+  </component>
+</application>

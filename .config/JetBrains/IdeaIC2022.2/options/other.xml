@@ -1,0 +1,115 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="260avPzUqHd86nbYq4Juenpf34q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="260eOyrevs5dcHRUKlF9m0zIScR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26IPAmJ2kcXlwRVHXCbsRqglvDF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26IxkTJKbZl3ocMh2GUqi2ciw60">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Tds7kGzKLMpqCdkaVhPrDK01S">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28Zp86D62pfaviyDARaoJrxCe1k">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2AX3EfMiaX1AyeLyMn8VxXH0EeK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HXu9ehcmK75zZVQhpnxM7Xanxt">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="InstalledPluginsSearchHistory" value="material&#10;materia&#10;mater&#10;mat&#10;ma" />
+    <property name="MarketplacePluginsSearchHistory" value="material&#10;materialu&#10;materialui" />
+    <property name="NextRunPlatformUpdateBuild" value="IC-213.7172.25/2021.3.3" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.3.3" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-213.6777.52-9620c65854b5689d3557933c6dc75ab7a5daeda8cdd0fe077fb5daf73fed1fc9" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="bundled.plugins.list.saved.version" value="IC-213.6777.52" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.config&#10;/usr/share/gtk-2.0&#10;/home/alex/.bashrc&#10;/home/alex/.bash_profile&#10;/home/alex/.config/sway/config" />
+    <property name="file.gist.reindex.count" value="286" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="ift.learning.panel.opened.in" value="213.6777.52" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.5.10-release-949-IJ6777.52" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.config" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1647198595760" />
+    <property name="registry.to.advanced.settings.migration.build" value="IC-213.6777.52" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "NextRunPlatformUpdateBuild": "IC-222.4345.14/2022.2.3",
+    "NextRunPlatformUpdateVersion": "2022.2.3",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IC-222.4345.14-8164ff1a1545a97d4808d7d944fb271b1e4fe6401fd4a4f93b994771b1b3451f",
+    "bundled.plugins.list.saved.version": "IC-222.4345.14",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "120",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.empty.project.create.file": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "installed.kotlin.plugin.version": "222-1.7.10-release-334-IJ4345.14",
+    "jdk.selected.JAVA_MODULE": "11",
+    "previousColorScheme": "_@user_Material Oceanic",
+    "project.wizard.group": "newWizard.com.intellij.ide.wizard.NewEmptyProjectBuilder",
+    "registry.to.advanced.settings.migration.build": "IC-222.4345.14",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/alex/git-clones/dotfiles",
+      "/home/alex/.zprofile",
+      "/home/alex/.config/sway/config",
+      "/home/alex/git-clones/qmk_firmware"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
